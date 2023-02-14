@@ -1,0 +1,15 @@
+/Users/jeansuh/Documents/API/classwork4/classwork4/classwork4/obj/Debug/net7.0/classwork4.csproj.AssemblyReference.cache
+/Users/jeansuh/Documents/API/classwork4/classwork4/classwork4/obj/Debug/net7.0/classwork4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeansuh/Documents/API/classwork4/classwork4/classwork4/obj/Debug/net7.0/classwork4.AssemblyInfoInputs.cache
+/Users/jeansuh/Documents/API/classwork4/classwork4/classwork4/obj/Debug/net7.0/classwork4.AssemblyInfo.cs
+/Users/jeansuh/Documents/API/classwork4/classwork4/classwork4/obj/Debug/net7.0/classwork4.csproj.CoreCompileInputs.cache
+/Users/jeansuh/Documents/API/classwork4/classwork4/classwork4/bin/Debug/net7.0/classwork4
+/Users/jeansuh/Documents/API/classwork4/classwork4/classwork4/bin/Debug/net7.0/classwork4.deps.json
+/Users/jeansuh/Documents/API/classwork4/classwork4/classwork4/bin/Debug/net7.0/classwork4.runtimeconfig.json
+/Users/jeansuh/Documents/API/classwork4/classwork4/classwork4/bin/Debug/net7.0/classwork4.dll
+/Users/jeansuh/Documents/API/classwork4/classwork4/classwork4/bin/Debug/net7.0/classwork4.pdb
+/Users/jeansuh/Documents/API/classwork4/classwork4/classwork4/obj/Debug/net7.0/classwork4.dll
+/Users/jeansuh/Documents/API/classwork4/classwork4/classwork4/obj/Debug/net7.0/refint/classwork4.dll
+/Users/jeansuh/Documents/API/classwork4/classwork4/classwork4/obj/Debug/net7.0/classwork4.pdb
+/Users/jeansuh/Documents/API/classwork4/classwork4/classwork4/obj/Debug/net7.0/classwork4.genruntimeconfig.cache
+/Users/jeansuh/Documents/API/classwork4/classwork4/classwork4/obj/Debug/net7.0/ref/classwork4.dll
